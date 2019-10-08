@@ -1,0 +1,64 @@
+#tridy-box {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  margin-bottom: 20px;
+}
+
+.tridy-content {
+  border: 1px solid #ccc;
+  padding: 20px 30px 0 30px;
+}
+
+.tridy-buttons {
+  display: flex;
+  margin: 10px;
+}
+
+.tridy-button {
+  background-color: #f8f9fa;
+  font-size: 13px;
+  user-select: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+  text-align: center;
+  font-size: 13px;
+  margin-right: 5px;
+}
+
+.tridy-button:not(.tridy-button-selected):hover {
+  background-color: #e2e6ea;
+  border-color: #dae0e5;
+}
+
+.tridy-button-selected {
+  background-color: #ccc;
+}
+
+.tridy-img>img {
+  width: 50%;
+  float: right;
+}
+
+@media only screen and (max-width: 600px) {
+  .tridy-buttons {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .tridy-button {
+    width: 25%;
+    height: 55px;
+    margin-top: 5px;
+  }
+
+  .tridy-img>img {
+    width: 100%;
+    float: inherit;
+  }
+}
+
+@media only screen and (max-width: 325px) {
+  .tridy-button {
+    width: 24%;
+    font-size: 12px;
+  }
+}
