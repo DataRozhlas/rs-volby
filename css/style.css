@@ -406,7 +406,7 @@ html {
   }
   
   @media only screen and (max-width: 600px) {
-    .chart1 {
+    .chart {
       height: 150vh;
     }
     .quiz-container {
