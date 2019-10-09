@@ -3,9 +3,19 @@ import { data } from "./stats";
 import { qu } from "./qu";
 import { ans } from "./ans"
 
-const colors = ['#a6cee3','#1f78b4','#b2df8a','#33a02c','#fb9a99','#e31a1c','#fdbf6f','#ff7f00','#cab2d6','#6a3d9a']
+const partyColors = ['#08519c','#3182bd','black', '#d95f0e', '#de2d26','#fd8d3c','#f768a1','#810f7c','#31a354','#bdbdbd']
+const demoColors = ['#2b8cbe', '#a6bddb', '#de2d26', '#bdbdbd']
+const colors = ['#2b8cbe', '#a6bddb', '#de2d26', '#fb6a4a', '#bdbdbd']
 
 function drawChart(q, divid) {
+  let cols = colors;
+  if ((q === '5') | (q === '7')) {
+    cols = partyColors;
+  }
+  if (q === '1') {
+    cols = demoColors;
+  }
+
   let qans = [ // univerzalni 5b skala
     'Rozhodně ano',
     'Spíše ano',
@@ -32,7 +42,7 @@ function drawChart(q, divid) {
   qans.forEach((q, i) => {
     ser.push({
       "name": q,
-      "color": colors[i],
+      "color": cols[i],
       "index": i,
       "data": vals[i]
     })

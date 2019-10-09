@@ -32,7 +32,7 @@ options: [] #wide, noheader (, nopic)
   </div>
 </a>
 
-Pokud se Čechů zeptáte, zda je demokracie nejlepší způsob vlády, kladně odpoví 46 % z nich. Vyplynulo to z unikátního průzkumu Českého rozhlasu v rámci projektu Rozděleni svobodou. Necelá čtvrtina respondentů si myslí, že za určitých okolností může být autoritativní způsob vládnutí lepší, a pětině republiky je to zkrátka jedno.
+Pokud se Čechů zeptáte, zda je demokracie nejlepší způsob vlády, kladně odpoví necelá polovina. Vyplynulo to z unikátního průzkumu Českého rozhlasu v rámci projektu Rozděleni svobodou. Necelá čtvrtina respondentů si myslí, že za určitých okolností může být autoritativní způsob vládnutí lepší, a pětině republiky je to zkrátka jedno.
 
 Autoři výzkumu na základě nasbíraných dat rozdělili českou společnost do šesti skupin podle toho, jak dobře se jim v současné době vede. Roli nehrál jen majetek, důležité byly i osobní vazby a šance na budoucí společenský vzestup.
 
@@ -56,17 +56,17 @@ Výsledky druhého kola prezidentské volby byly výrazně formované právě t�
 
 <wide><div class="chart" id="ch6"></div></wide>
 
-## Populisti pro muže
+## ANO pro všechny třídy
 
-U sněmovních voleb byly mezi třídami rozdíly nejen ve volbě samotné, ale i v účasti. Příslušníci strádající třídy dorazili k urnám v o 15 % nižším počtu případů. "K nižší mobilizaci vyšších středních vrstev mohlo dojít i proto, že velká část těchto tříd již k volbám chodí a je tak obtížnější zde mobilizovat nové voliče," dodává Buchtík.
+U sněmovních voleb byly mezi třídami rozdíly nejen ve volbě samotné, ale i v účasti. Příslušníci strádající třídy dorazili oproti prezidentským volbám k urnám v o 15 % nižším počtu případů.
 
-Podle Paulíny Tabery ze sociologického ústavu akademie věd volební účast zvyšuje lidský a kulturní kapitál. "Lidé s vyššími kapitály častěji pohybují v prostředí, kde je častěji účast u voleb vnímaná jako norma a zároveň jsou častěji přesvědčeni, že mohou společnost ovlivňovat a podílet se na jejích chodu," tvrdí.
+Podle Matouše Pilnáčka volební účast zvyšuje lidský a kulturní kapitál. "Lidé s vyššími kapitály častěji pohybují v prostředí, kde je častěji účast u voleb vnímaná jako norma mají také více zdrojů a více těží z fungování současného režimu, a proto se také na jeho chodu více podílejí," tvrdí.
 
 Co se týče volby samotné, v těch se v roce 2017 nejvíce odlišovala nastupující kosmopolitní třída, která volila často Piráty, TOP 09 a ODS, naopak nepreferovala hnutí ANO, SDP a komunisty. 
 
 Populistickou SPD často volili příslušníci strádající (15 %) a ohrožené třídy (14 %), přičemž ohrožení často volili i Piráty, což u strádajících neplatilo.
 
-Ohrožená třída, která má nízký příjem a majetek, je častěji vystavena exekucím nebo ztrátě bydlení, ale zároveň má od té strádající vyšší kulturní a sociální kapitál, měla tendenci volit nové či protestní strany. Právě proto se Pirátům podařilo ve volbách oslovit části populace z nižších i vyšších středních vrstev. 
+Ohrožená třída, která má nízký příjem a majetek, je častěji vystavena exekucím nebo ztrátě bydlení, ale zároveň má od té strádající vyšší kulturní a sociální kapitál, měla tendenci volit nové či protestní strany. Pirátům se tak podařilo ve volbách oslovit části populace z nižších i vyšších středních vrstev. 
 
 Největší úspěch napříč třídami pak mělo ANO, které má sice nižší podporu u nastupující kosmopolitní třídy, ale i tak dosahuje 16% podpory.
 
@@ -76,7 +76,7 @@ Piráti oslovují kromě mladších také voliče s vyšším lidským kapitále
 
 Obecně je možné říct, že TOP 09 preferují voliči s vyšším kulturním, lidským a podpůrným kapitálem, podobné je to i u voličů STAN. Voliči SPD pak mají mírně nižší příjem, majetek a kulturní kapitál a výrazně častěji jsou mimopražští. Rozdíly jsou i mezi pohlavími,  v ohrožené třídě volilo SPD 19 % mužů, ale pouze 10 % žen.
 
-Menší ale stále významný rozdíl je i u strádající třídy, kde má u mužů vyšší podporu ODS. Podpora Pirátské strany je naopak větší mezi ženami a to zejména u zajištěné střední třídy, nastupující kosmopolitní třídy a tradiční pracující. Nejvýraznější rozdíl je u nastupující kosmopolitní třídy kde mezi muži volí Piráty 18 % respondentů, zatímco u žen to je 34 %. Naopak u třídy místních vazeb volí častěji Piráty muži.
+Menší ale stále významný rozdíl mezi pohlavími je i u strádající třídy, kde má u mužů vyšší podporu ODS. Podpora Pirátské strany je naopak větší mezi ženami a to zejména u zajištěné střední třídy, nastupující kosmopolitní třídy a tradiční pracující. Nejvýraznější rozdíl je u nastupující kosmopolitní třídy kde mezi muži volí Piráty 18 % respondentů, zatímco u žen to je 34 %. Naopak u třídy místních vazeb volí častěji Piráty muži.
 
 ## Koho nesnášíme
 
@@ -84,10 +84,10 @@ Originální obraz pak přinesla otázka na to, kterou stranu voliči považují
 
 <wide><div class="chart" id="ch7"></div></wide>
 
-Vyšší střední třídy se vymezují zejména právě vůči komunistům a partaji Tomia Okamury, pro nastupující kosmopolitní třídu je pak většina ostatních stran relativně přijatelná. Nejsilnější odpor k některým stranám má strádající třída, pro kterou je nejpřijatelnější hnutí ANO, ale i to je nepřijatelné pro 42 % respondentů. Strádající třída nejvíc odmítá TOP 09 a ODS. 
+Vyšší střední třídy se vymezují zejména právě vůči komunistům a straně Tomia Okamury, pro nastupující kosmopolitní třídu je pak většina ostatních stran relativně přijatelná. Nejsilnější odpor k některým stranám má strádající třída, pro kterou je nejpřijatelnější hnutí ANO, ale i to je nepřijatelné pro 42 % respondentů. Strádající třída nejvíc odmítá TOP 09 a ODS. 
 
-"Strádající třída a do jisté míry ani nižší střední třídy nemají žádnou stranu, ke která by pro ně byla výrazně přijatelná," upozorňuje sociolog Pilnáček. To se podle něj pak pravděpodobně promítá i do nižší volební účasti těchto tříd.
+"Strádající třída a do jisté míry ani nižší střední třídy nemají žádnou stranu, která by pro ně byla výrazně přijatelná," upozorňuje sociolog Pilnáček. To podle něj pak souvisí i s nižší volební účasti těchto tříd.
 
 Odmítání některých partají spolu souvisí, společně nepřijatelné jsou zejména strany tzv. demokratického bloku a Pirátů. Pokud volič odmítá TOP 09, tak je pravděpodobné, že negativně vnímá i ODS, KDU-ČSL, STAN a Piráty, případně i ČSSD. 
 
-Druhou, ale méně výraznou společně nepřijatelnou skupinou jsou strany vládního bloku společně s SPD. Odpor k ANO se tedy často váže s odporem k SPD, komunistům a opět ČSSD. "Sociální demokracie je tak často nepřijatelná pro oba vyhraněné názorové proudy," upozorňuje Pilnáček. "Hůře je ale vnímaná hlavně odpůrci současné vlády," uzavírá.
+Druhou, ale méně výraznou společně nepřijatelnou skupinou jsou strany vládního bloku, do které z části spadá i SPD. Odpor k ANO se tedy často váže s odporem ke komunistům, opět k ČSSD a částečně i k SPD. "Sociální demokracie je tak často nepřijatelná pro oba vyhraněné názorové proudy," upozorňuje Pilnáček. "Hůře je ale vnímaná hlavně odpůrci současné vlády," uzavírá.
