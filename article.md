@@ -1,25 +1,16 @@
-title: "Kdo volí koho"
-perex: "Šokující. Různí lidé volí různé strany."
+title: "Skoro polovině Čechů by nevadil autoritář v čele státu. O pevnou ruku stojí hlavně muži, bohatí i chudí"
+perex: "Demokracii za nejlepší způsob vlády považuje asi polovina republiky, pětině je to pak jedno. Sklony k autoritářství jsou podobně silné ve všech vrstvách společnosti, lidé na okraji častěji nepovažují tuhle otázku za podstatnou."
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/volebni_mistnost_6_181005-175947_mda.jpg?itok=lqt71NQj
 coverimg_note: "Foto: Michaela Danelová, iROZHLAS.cz"
 styles: []
 libraries: [highcharts] #jquery, d3, highcharts, datatables
 options: [] #wide, noheader (, nopic)
 ---
-
-<wide>
-<div class="chart" id="1"></div>
-</wide>
-
-Monterey jack cheese and wine cream cheese. Melted cheese chalk and cheese lancashire paneer ricotta hard cheese cheese triangles red leicester. Brie babybel pecorino blue castello caerphilly taleggio caerphilly cheesy grin. Hard cheese blue castello jarlsberg port-salut port-salut blue castello stilton cheesy grin. Feta.
-
-Smelly cheese fromage frais st. agur blue cheese. Red leicester st. agur blue cheese cheesy feet cheese and wine brie cheese and wine lancashire croque monsieur. Who moved my cheese mascarpone brie say cheese cheddar cheese on toast cheese and wine cauliflower cheese. Babybel babybel bocconcini edam taleggio paneer port-salut cheddar. Feta edam st. agur blue cheese.
-
 <a href="/zpravy-domov/ceska-spolecnost-vyzkum-tridy-kalkulacka_1909171000_zlo" class="b-inline b-inline--left">
   <div class="b-inline__wrap">
             <div class="b-inline__img">
           <div class="img img--16x9 img--w238 is-loaded">
-              <span class="img__holder is-loading is-loaded is-visible" data-srcset="[&quot;https://www.irozhlas.cz/sites/default/files/styles/zpravy_rubrikovy_nahled/public/uploader/rozdeleni_svobodou_190916-175104_pek.png?itok=RoGi49z- 238x134&quot;]">
+              <span class="img__holder is-loading is-loaded is-visible" data-srcset='["https://www.irozhlas.cz/sites/default/files/styles/zpravy_rubrikovy_nahled/public/uploader/rozdeleni_svobodou_190916-175104_pek.png?itok=RoGi49z- 238x134"]'>
 
   <noscript>    <img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_rubrikovy_nahled/public/uploader/rozdeleni_svobodou_190916-175104_pek.png?itok=RoGi49z-" alt="" />  </noscript>
 <img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_rubrikovy_nahled/public/uploader/rozdeleni_svobodou_190916-175104_pek.png?itok=RoGi49z-"></span>
@@ -41,25 +32,60 @@ Smelly cheese fromage frais st. agur blue cheese. Red leicester st. agur blue ch
   </div>
 </a>
 
-Brie monterey jack say cheese. Chalk and cheese jarlsberg squirty cheese lancashire cream cheese red leicester cheddar cheese and biscuits. Cheeseburger melted cheese dolcelatte halloumi boursin caerphilly fromage cottage cheese. Bavarian bergkase swiss ricotta brie.
+Pokud se Čechů zeptáte, zda je demokracie nejlepší způsob vlády, kladně odpoví 46 % z nich. Vyplynulo to z unikátního průzkumu Českého rozhlasu v rámci projektu Rozděleni svobodou. Necelá čtvrtina respondentů si myslí, že za určitých okolností může být autoritativní způsob vládnutí lepší, a pětině republiky je to zkrátka jedno.
 
-<right>
-<img src="https://www.irozhlas.cz/sites/default/files/uploader_unmanaged/rozdeleni_svobodou_l_190916-172827_zlo.png" width="100%">
-<p>Článek, který čtete, je druhý díl seriálu, který na serveru iROZHLAS.cz vychází vždy v úterý.</p>
-<p>První díl: <a href="https://www.irozhlas.cz/zpravy-domov/ceska-spolecnost-vyzkum-tridy-kalkulacka_1909171000_zlo">Česká společnost se nedělí na dva tábory, ale do šesti tříd. Zjistěte, do které patříte vy</a></p>
-<p>Další rozhovory, reportáže a analýzy můžete sledovat <a href="https://www.irozhlas.cz/rozdeleni-svobodou">na serveru iROZHLAS.cz</a>, ve vysílání <a href="https://radiozurnal.rozhlas.cz/">Radiožurnálu</a> a <a href="https://plus.rozhlas.cz/">Českého rozhlasu Plus</a>.
-</right>
+Autoři výzkumu na základě nasbíraných dat rozdělili českou společnost do šesti skupin podle toho, jak dobře se jim v současné době vede. Roli nehrál jen majetek, důležité byly i osobní vazby a šance na budoucí společenský vzestup.
 
-Say cheese emmental brie. Ricotta smelly cheese squirty cheese pepper jack cheesy grin port-salut danish fontina cheesy grin. Chalk and cheese roquefort say cheese taleggio cheeseburger pecorino babybel brie. Babybel cheesecake fromage frais cheddar swiss emmental cauliflower cheese melted cheese. Halloumi stilton cheese and wine st. agur blue cheese.
+"Třídy s menšími zdroji častěji volí možnost, že je jedno, jaký je režim. Zatímco v zajištěné střední třídě jich je 7 %, tak ve strádající třídě jich je 34 %," říká jeden z autorů, sociolog Matouš Pilnáček, který se spolu s kolegy Paulínou Tabery, Martinem Buchtíkem a Danem Prokopem na výzkumu podílel.
 
-Stinking bishop rubber cheese babybel. Ricotta airedale melted cheese ricotta fondue feta cheesy feet danish fontina. Roquefort st. agur blue cheese smelly cheese caerphilly croque monsieur fondue airedale cheese triangles. Halloumi everyone loves ricotta chalk and cheese rubber cheese lancashire cheese strings smelly cheese. Croque monsieur melted cheese jarlsberg goat.
+<wide><div class="chart" id="ch1"></div></wide>
 
-Stinking bishop roquefort croque monsieur. Fondue everyone loves smelly cheese pecorino queso edam red leicester port-salut. The big cheese dolcelatte taleggio goat roquefort who moved my cheese mascarpone halloumi. Fromage frais cheesecake jarlsberg cauliflower cheese who moved my cheese cheesy feet paneer.
+Podle Pilnáčka neplatí, že by lidé na okraji společnosti podporovali vládu pevné ruky. Téma je to pro ně, vzhledem k obtížné životní situaci, spíš okrajové. "Samotná podpora autoritářství tak nesouvisí příliš s třídní strukturou. Zajímavá je souvislost s pohlavím, kdy mezi ženami volí možnost autoritativního způsobu vlády za určitých okolností pouze 18 %, zatímco u mužů to je 28 %," dodává.
 
-Stilton smelly cheese pepper jack. Feta cauliflower cheese when the cheese comes out everybody's happy who moved my cheese cow cheesy grin cream cheese ricotta. Stinking bishop squirty cheese red leicester emmental port-salut pecorino the big cheese cottage cheese. Cheese on toast cheddar croque monsieur cheese strings cheeseburger bocconcini cheese and wine paneer. Pepper jack dolcelatte lancashire boursin.
-
-Gouda jarlsberg chalk and cheese. Boursin cheese on toast pepper jack cottage cheese cheese on toast brie emmental cheese slices. Gouda roquefort melted cheese pepper jack swiss cauliflower cheese goat gouda. Say cheese say cheese red leicester mascarpone cheeseburger when the cheese comes out everybody's happy cheese on toast stilton. Cheesy feet cheese slices.
+Zájem o politiku v jednotlivých třídách společnosti se pak odráží i ve volební účasti. Ti, kteří prosperují lépe, obvykle častěji volí. Sociologové se zaměřovali na volby do sněmovny v roce 2017, a na prezidentskou volbu o rok později. "V prezidentských volbách se podařilo mobilizovat část voličů, kteří k volbám do parlamentu nepřišli.  Byli to z více jak poloviny podporovatelé Miloše Zemana, což přispělo k jeho vítězství ve volbách," vysvětluje sociolog Martin Buchtík z agentury STEM.
 
 <link href="https://data.irozhlas.cz/tridy-model/box_standalone/css/style.css" rel="stylesheet">
 <div id="tridy-box"></div>
 <script src="https://data.irozhlas.cz/tridy-model/box_standalone/output.js"></script>
+
+Výsledky druhého kola prezidentské volby byly výrazně formované právě třídním rozdělením. Jiří Drahoš výrazně vítězil u nastupující kosmopolitní třídy a méně také u zajištěné střední třídy. Drahoše volili častěji lidé s vysokým sociálním kapitálem a vyšším majetkem i příjmy. Naopak Miloš Zeman našel své podporovatele mezi staršími a méně vzdělanými voliči.
+
+"Nelze tak říci, že by za volbou Zemana či Drahoše stál jeden konkrétní vliv, ale spíše kombinace vlivu ekonomického postavení ve společnosti a sociální podpory," vysvětluje Buchtík a upozorňuje, že zdaleka největší souvislost s prezidentskou volbou měla konzumace médií. "Lidé sledující komerční televize výrazně častěji volil Miloše Zemana a naopak respondenti sledující veřejnoprávní média častěji Jiřího Drahoše," dodává. Není ale jasné, zda sledování médií způsobilo, jak kdo volil, a nebo zda lidé zkrátka preferují ten tip médií, který souzní s jejich postoji.
+
+<wide><div class="chart" id="ch6"></div></wide>
+
+## Populisti pro muže
+
+U sněmovních voleb byly mezi třídami rozdíly nejen ve volbě samotné, ale i v účasti. Příslušníci strádající třídy dorazili k urnám v o 15 % nižším počtu případů. "K nižší mobilizaci vyšších středních vrstev mohlo dojít i proto, že velká část těchto tříd již k volbám chodí a je tak obtížnější zde mobilizovat nové voliče," dodává Buchtík.
+
+Podle Paulíny Tabery ze sociologického ústavu akademie věd volební účast zvyšuje lidský a kulturní kapitál. "Lidé s vyššími kapitály častěji pohybují v prostředí, kde je častěji účast u voleb vnímaná jako norma a zároveň jsou častěji přesvědčeni, že mohou společnost ovlivňovat a podílet se na jejích chodu," tvrdí.
+
+Co se týče volby samotné, v těch se v roce 2017 nejvíce odlišovala nastupující kosmopolitní třída, která volila často Piráty, TOP 09 a ODS, naopak nepreferovala hnutí ANO, SDP a komunisty. 
+
+Populistickou SPD často volili příslušníci strádající (15 %) a ohrožené třídy (14 %), přičemž ohrožení často volili i Piráty, což u strádajících neplatilo.
+
+Ohrožená třída, která má nízký příjem a majetek, je častěji vystavena exekucím nebo ztrátě bydlení, ale zároveň má od té strádající vyšší kulturní a sociální kapitál, měla tendenci volit nové či protestní strany. Právě proto se Pirátům podařilo ve volbách oslovit části populace z nižších i vyšších středních vrstev. 
+
+Největší úspěch napříč třídami pak mělo ANO, které má sice nižší podporu u nastupující kosmopolitní třídy, ale i tak dosahuje 16% podpory.
+
+<wide><div class="chart" id="ch5"></div></wide>
+
+Piráti oslovují kromě mladších také voliče s vyšším lidským kapitálem. Lidé s majetkem a příjmem pak častěji volí ODS. Podpora hnutí ANO mírně souvisí s nižším sociálním a lidským kapitálem, ale výrazně větší roli zde hraje věk, kdy ANO volí zejména starší voliči a voličky.
+
+Obecně je možné říct, že TOP 09 preferují voliči s vyšším kulturním, lidským a podpůrným kapitálem, podobné je to i u voličů STAN. Voliči SPD pak mají mírně nižší příjem, majetek a kulturní kapitál a výrazně častěji jsou mimopražští. Rozdíly jsou i mezi pohlavími,  v ohrožené třídě volilo SPD 19 % mužů, ale pouze 10 % žen. 
+
+Menší ale stále významný rozdíl je i u strádající třídy, kde má u mužů vyšší podporu ODS. Podpora Pirátské strany je naopak větší mezi ženami a to zejména u zajištěné střední třídy, nastupující kosmopolitní třídy a tradiční pracující. Nejvýraznější rozdíl je u nastupující kosmopolitní třídy kde mezi muži volí Piráty 18 % respondentů, zatímco u žen to je 34 %. Naopak u třídy místních vazeb volí častěji Piráty muži.
+
+## Koho nesnášíme
+
+Originální obraz pak přinesla otázka na to, kterou stranu voliči považují za nepřijatelnou, tedy jakou by nikdy nevolili a nechtěli by ji mít ve vládě. Obecně nejhůře dopadly KSČM a SPD, které jsou nepřijatelné pro 67 % a 66 % voličů. Naopak nejméně rozdělují Starostové a nezávislí, kteří jsou nepřijatelní jen pro 36 % dotázaných.
+
+<wide><div class="chart" id="ch7"></div></wide>
+
+Vyšší střední třídy se vymezují zejména právě vůči komunistům a partaji Tomia Okamury, pro nastupující kosmopolitní třídu je pak většina ostatních stran relativně přijatelná. Nejsilnější odpor k některým stranám má strádající třída, pro kterou je nejpřijatelnější hnutí ANO, ale i to je nepřijatelné pro 42 % respondentů. Strádající třída nejvíc odmítá TOP 09 a ODS. 
+
+"Strádající třída a do jisté míry ani nižší střední třídy nemají žádnou stranu, ke která by pro ně byla výrazně přijatelná," upozorňuje sociolog Pilnáček. To se podle něj pak pravděpodobně promítá i do nižší volební účasti těchto tříd.
+
+Odmítání některých partají spolu souvisí, společně nepřijatelné jsou zejména strany tzv. demokratického bloku a Pirátů. Pokud volič odmítá TOP 09, tak je pravděpodobné, že negativně vnímá i ODS, KDU-ČSL, STAN a Piráty, případně i ČSSD. 
+
+Druhou, ale méně výraznou společně nepřijatelnou skupinou jsou strany vládního bloku společně s SPD. Odpor k ANO se tedy často váže s odporem k SPD, komunistům a opět ČSSD. "Sociální demokracie je tak často nepřijatelná pro oba vyhraněné názorové proudy," upozorňuje Pilnáček. "Hůře je ale vnímaná hlavně odpůrci současné vlády," uzavírá.

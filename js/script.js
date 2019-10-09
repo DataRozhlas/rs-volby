@@ -68,8 +68,9 @@ function drawChart(q, divid) {
       ]
     },
     yAxis: {
+      visible: ((q === '7') ? false : true), // skryta osa u otazky 7, nema soucet 100 %
       min: 0,
-      max: 1,
+      max: ((q === '7') ? null : 1), // prodlouzena osa u otazky 7, nema soucet 100 %
       title: {
           text: 'podíl odpovědí',
       },
@@ -119,7 +120,9 @@ function drawChart(q, divid) {
         }
     },
     series: ser
-  });  
+  });
 };
 
-drawChart('4', '1'); // id otázky, pak id divu
+Array.from(document.getElementsByClassName("chart")).forEach(ch => {
+  drawChart(ch.id.replace('ch', ''), ch.id)
+});

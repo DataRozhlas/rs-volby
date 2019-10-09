@@ -20,5 +20,16 @@ export const ans = {
     '6': [
         'Miloše Zemana',
         'Jiřího Drahoše',
-    ]
+    ],
+    '7': [
+        'ANO',
+        'ODS',
+        'Piráti',
+        'SPD Tomio Okamura',
+        'KSČM',
+        'ČSSD',
+        'Lidovci (KDU-ČSL)',
+        'TOP 09',
+        'Starostové a nezávislí (STAN)',
+    ],
 }
