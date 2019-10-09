@@ -78,9 +78,9 @@ function drawChart(q, divid) {
       ]
     },
     yAxis: {
-      visible: ((q === '7') ? false : true), // skryta osa u otazky 7, nema soucet 100 %
+      visible: true,
       min: 0,
-      max: ((q === '7') ? null : 1), // prodlouzena osa u otazky 7, nema soucet 100 %
+      max: 1,
       title: {
           text: 'podíl odpovědí',
       },
@@ -107,7 +107,7 @@ function drawChart(q, divid) {
     },
     plotOptions: {
         column: {
-            stacking: 'normal',
+            stacking: ((q === '7') ? false : 'normal'),
             dataLabels: {
                 enabled: true,
                 allowOverlap: true,
