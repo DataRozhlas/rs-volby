@@ -36,7 +36,9 @@ Pokud se Čechů zeptáte, zda je demokracie nejlepší způsob vlády, kladně 
 
 Autoři výzkumu na základě nasbíraných dat rozdělili českou společnost do šesti skupin podle toho, jak dobře se jim v současné době vede. Roli nehrál jen majetek, důležité byly i osobní vazby a šance na budoucí společenský vzestup.
 
-"Třídy s menšími zdroji častěji volí možnost, že je jedno, jaký je režim. Zatímco v zajištěné střední třídě jich je 7 %, tak ve strádající třídě jich je 34 %," říká jeden z autorů, sociolog Matouš Pilnáček, který se spolu s kolegy Paulínou Tabery, Martinem Buchtíkem a Danem Prokopem na výzkumu podílel.
+"Třídy s menšími zdroji častěji volí možnost, že je jedno, jaký je režim. Zatímco v zajištěné střední třídě jich je 7 %, tak ve strádající třídě jich je 34 %," říká jeden z autorů, sociolog Matouš Pilnáček, který se spolu s kolegy Paulínou Tabery, Martinem Buchtíkem, Danem Prokopem a Tomášem Dvořákem na výzkumu podílel.
+
+"Spokojenost s demokracií je výrazně ovlivněna spokojeností s výsledky demokratického vládnutí," doplňuje Dvořák, podle kterého lidé hodnotí současnou politickou situaci optikou toho, jak dobře se jim žije.
 
 <wide><div class="chart" id="ch1"></div></wide>
 
@@ -72,7 +74,7 @@ Největší úspěch napříč třídami pak mělo ANO, které má sice nižší
 
 Piráti oslovují kromě mladších také voliče s vyšším lidským kapitálem. Lidé s majetkem a příjmem pak častěji volí ODS. Podpora hnutí ANO mírně souvisí s nižším sociálním a lidským kapitálem, ale výrazně větší roli zde hraje věk, kdy ANO volí zejména starší voliči a voličky.
 
-Obecně je možné říct, že TOP 09 preferují voliči s vyšším kulturním, lidským a podpůrným kapitálem, podobné je to i u voličů STAN. Voliči SPD pak mají mírně nižší příjem, majetek a kulturní kapitál a výrazně častěji jsou mimopražští. Rozdíly jsou i mezi pohlavími,  v ohrožené třídě volilo SPD 19 % mužů, ale pouze 10 % žen. 
+Obecně je možné říct, že TOP 09 preferují voliči s vyšším kulturním, lidským a podpůrným kapitálem, podobné je to i u voličů STAN. Voliči SPD pak mají mírně nižší příjem, majetek a kulturní kapitál a výrazně častěji jsou mimopražští. Rozdíly jsou i mezi pohlavími,  v ohrožené třídě volilo SPD 19 % mužů, ale pouze 10 % žen.
 
 Menší ale stále významný rozdíl je i u strádající třídy, kde má u mužů vyšší podporu ODS. Podpora Pirátské strany je naopak větší mezi ženami a to zejména u zajištěné střední třídy, nastupující kosmopolitní třídy a tradiční pracující. Nejvýraznější rozdíl je u nastupující kosmopolitní třídy kde mezi muži volí Piráty 18 % respondentů, zatímco u žen to je 34 %. Naopak u třídy místních vazeb volí častěji Piráty muži.
 
