@@ -84,10 +84,10 @@ Originální obraz pak přinesla otázka na to, kterou stranu voliči považují
 
 <wide><div class="chart" id="ch7"></div></wide>
 
-Vyšší střední třídy se vymezují zejména právě vůči komunistům a straně Tomia Okamury, pro nastupující kosmopolitní třídu je pak většina ostatních stran relativně přijatelná. Nejsilnější odpor k některým stranám má strádající třída, pro kterou je nejpřijatelnější hnutí ANO, ale i to je nepřijatelné pro 42 % respondentů. Strádající třída nejvíc odmítá TOP 09 a ODS. 
+Odmítání některých stran spolu souvisí, společně nepřijatelné jsou zejména strany tzv. demokratického bloku a Pirátů. Pokud volič odmítá TOP 09, tak je pravděpodobné, že nemá rád ani ODS, Lidovce, STAN a Piráty. Druhou společně nepřijatelnou skupinou jsou strany ANO, SPD, komunisté a částečně ČSSD. 
 
-"Strádající třída a do jisté míry ani nižší střední třídy nemají žádnou stranu, která by pro ně byla výrazně přijatelná," upozorňuje sociolog Pilnáček. To podle něj pak souvisí i s nižší volební účasti těchto tříd.
+„Existují zde ještě další dvě skupiny, pro které jsou strany buď všechny přijatelné, nebo nepřijatelné. Oba způsoby odpovídání a zejména neodmítání žádné strany souvisí s nezájmem o politické dění,“ upozorňuje Pilnáček.
 
-Odmítání některých partají spolu souvisí, společně nepřijatelné jsou zejména strany tzv. demokratického bloku a Pirátů. Pokud volič odmítá TOP 09, tak je pravděpodobné, že negativně vnímá i ODS, KDU-ČSL, STAN a Piráty, případně i ČSSD. 
+Vůči vládním stranám a SPD se nejsilněji vymezuje kosmopolitní třída. Naopak strany demokratického bloku a Pirátů nejvíce odmítá strádající a tradičně pracující třída, které tak vytváří názorovou koalici,“ dodává sociolog Pilnáček. 
 
-Druhou, ale méně výraznou společně nepřijatelnou skupinou jsou strany vládního bloku, do které z části spadá i SPD. Odpor k ANO se tedy často váže s odporem ke komunistům, opět k ČSSD a částečně i k SPD. "Sociální demokracie je tak často nepřijatelná pro oba vyhraněné názorové proudy," upozorňuje Pilnáček. "Hůře je ale vnímaná hlavně odpůrci současné vlády," uzavírá.
+To je podle něj způsobeno tím, že vymezení se vůči konkrétním stranám nesouvisí jen s tím, do jaké třídy lidé patří, ale také s typem médií, které konzumují. Podobně jako u prezidentské volby ale není jasné, zda sledování médií ovlivňuje, jak kdo volí, a nebo zda lidé preferují média, se kterými souzní.

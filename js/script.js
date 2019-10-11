@@ -6,13 +6,15 @@ import { ans } from "./ans"
 const partyColors = ['#08519c','#3182bd','black', '#d95f0e', '#de2d26','#fd8d3c','#f768a1','#810f7c','#31a354','#bdbdbd']
 const demoColors = ['#2b8cbe', '#a6bddb', '#de2d26', '#bdbdbd']
 const colors = ['#2b8cbe', '#a6bddb', '#de2d26', '#fb6a4a', '#bdbdbd']
+const hateColors = ['#bdbdbd', '#de2d26', '#3182bd', 'black']
 
 function drawChart(q, divid) {
   let cols = colors;
-  if ((q === '5') | (q === '7')) {
+  if (q === '5') {
     cols = partyColors;
-  }
-  if (q === '1') {
+  } else if (q === '7') {
+    cols = hateColors;
+  } else if (q === '1') {
     cols = demoColors;
   }
 
