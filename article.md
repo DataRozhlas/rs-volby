@@ -1,5 +1,5 @@
 title: "Skoro polovině Čechů by nevadil autoritář v čele státu. O pevnou ruku stojí hlavně muži, bohatí i chudí"
-perex: "Demokracii za nejlepší způsob vlády považuje asi polovina republiky, pětině je to pak jedno. Sklony k autoritářství jsou podobně silné ve všech vrstvách společnosti, lidé na okraji častěji nepovažují tuhle otázku za podstatnou."
+perex: "Demokracii za nejlepší způsob vlády považuje asi polovina republiky, pětině je to pak jedno. Sklony k autoritářství jsou podobně silné ve všech vrstvách společnosti, lidé na okraji častěji nepovažují tuto otázku za podstatnou."
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/volebni_mistnost_6_181005-175947_mda.jpg?itok=lqt71NQj
 coverimg_note: "Foto: Michaela Danelová, iROZHLAS.cz"
 styles: []
@@ -44,7 +44,7 @@ Autoři výzkumu na základě nasbíraných dat rozdělili českou společnost d
 
 Podle Pilnáčka neplatí, že by lidé na okraji společnosti podporovali vládu pevné ruky. Téma je to pro ně, vzhledem k obtížné životní situaci, spíš okrajové. "Samotná podpora autoritářství tak nesouvisí příliš s třídní strukturou. Zajímavá je souvislost s pohlavím, kdy mezi ženami volí možnost autoritativního způsobu vlády za určitých okolností pouze 18 %, zatímco u mužů to je 28 %," dodává.
 
-Zájem o politiku v jednotlivých třídách společnosti se pak odráží i ve volební účasti. Ti, kteří prosperují lépe, obvykle častěji volí. Sociologové se zaměřovali na volby do sněmovny v roce 2017, a na prezidentskou volbu o rok později. "V prezidentských volbách se podařilo mobilizovat část voličů, kteří k volbám do parlamentu nepřišli.  Byli to z více jak poloviny podporovatelé Miloše Zemana, což přispělo k jeho vítězství ve volbách," vysvětluje sociolog Martin Buchtík z agentury STEM.
+Zájem o politiku v jednotlivých třídách společnosti se pak odráží i ve volební účasti. Ti, kteří prosperují lépe, obvykle častěji volí. Sociologové se zaměřovali na volby do sněmovny v roce 2017 a na prezidentskou volbu o rok později. "V prezidentských volbách se podařilo mobilizovat část voličů, kteří k volbám do Parlamentu nepřišli.  Byli to z více než poloviny podporovatelé Miloše Zemana, což přispělo k jeho vítězství ve volbách," vysvětluje sociolog Martin Buchtík z agentury STEM.
 
 <link href="https://data.irozhlas.cz/tridy-model/box_standalone/css/style.css" rel="stylesheet">
 <div id="tridy-box"></div>
@@ -52,7 +52,7 @@ Zájem o politiku v jednotlivých třídách společnosti se pak odráží i ve 
 
 Výsledky druhého kola prezidentské volby byly výrazně formované právě třídním rozdělením. Jiří Drahoš výrazně vítězil u nastupující kosmopolitní třídy a méně také u zajištěné střední třídy. Drahoše volili častěji lidé s vysokým sociálním kapitálem a vyšším majetkem i příjmy. Naopak Miloš Zeman našel své podporovatele mezi staršími a méně vzdělanými voliči.
 
-"Nelze tak říci, že by za volbou Zemana či Drahoše stál jeden konkrétní vliv, ale spíše kombinace vlivu ekonomického postavení ve společnosti a sociální podpory," vysvětluje Buchtík a upozorňuje, že zdaleka největší souvislost s prezidentskou volbou měla konzumace médií. "Lidé sledující komerční televize výrazně častěji volil Miloše Zemana a naopak respondenti sledující veřejnoprávní média častěji Jiřího Drahoše," dodává. Není ale jasné, zda sledování médií způsobilo, jak kdo volil, a nebo zda lidé zkrátka preferují ten tip médií, který souzní s jejich postoji.
+"Nelze tak říci, že by za volbou Zemana či Drahoše stál jeden konkrétní vliv, ale spíše kombinace vlivu ekonomického postavení ve společnosti a sociální podpory," vysvětluje Buchtík a upozorňuje, že zdaleka největší souvislost s prezidentskou volbou měla konzumace médií. "Lidé sledující komerční televize výrazně častěji volili Miloše Zemana, a naopak respondenti sledující veřejnoprávní média častěji Jiřího Drahoše," dodává. Není ale jasné, zda sledování médií způsobilo, jak kdo volil, anebo zda lidé zkrátka preferují ten typ médií, který souzní s jejich postoji.
 
 <wide><div class="chart" id="ch6"></div></wide>
 
@@ -60,9 +60,9 @@ Výsledky druhého kola prezidentské volby byly výrazně formované právě t�
 
 U sněmovních voleb byly mezi třídami rozdíly nejen ve volbě samotné, ale i v účasti. Příslušníci strádající třídy dorazili oproti prezidentským volbám k urnám v o 15 % nižším počtu případů.
 
-Podle Matouše Pilnáčka volební účast zvyšuje lidský a kulturní kapitál. "Lidé s vyššími kapitály častěji pohybují v prostředí, kde je častěji účast u voleb vnímaná jako norma mají také více zdrojů a více těží z fungování současného režimu, a proto se také na jeho chodu více podílejí," tvrdí.
+Podle Matouše Pilnáčka volební účast zvyšuje lidský a kulturní kapitál. "Lidé s vyššími kapitály se častěji pohybují v prostředí, kde je častěji účast u voleb vnímána jako norma, mají také více zdrojů a více těží z fungování současného režimu, a proto se také na jeho chodu více podílejí," tvrdí.
 
-Co se týče volby samotné, v těch se v roce 2017 nejvíce odlišovala nastupující kosmopolitní třída, která volila často Piráty, TOP 09 a ODS, naopak nepreferovala hnutí ANO, SDP a komunisty. 
+Co se týče volby samotné, v těch se v roce 2017 nejvíce odlišovala nastupující kosmopolitní třída, která volila často Piráty, TOP 09 a ODS, naopak nepreferovala hnutí ANO, SPD a komunisty. 
 
 Populistickou SPD často volili příslušníci strádající (15 %) a ohrožené třídy (14 %), přičemž ohrožení často volili i Piráty, což u strádajících neplatilo.
 
@@ -76,7 +76,7 @@ Piráti oslovují kromě mladších také voliče s vyšším lidským kapitále
 
 Obecně je možné říct, že TOP 09 preferují voliči s vyšším kulturním, lidským a podpůrným kapitálem, podobné je to i u voličů STAN. Voliči SPD pak mají mírně nižší příjem, majetek a kulturní kapitál a výrazně častěji jsou mimopražští. Rozdíly jsou i mezi pohlavími,  v ohrožené třídě volilo SPD 19 % mužů, ale pouze 10 % žen.
 
-Menší ale stále významný rozdíl mezi pohlavími je i u strádající třídy, kde má u mužů vyšší podporu ODS. Podpora Pirátské strany je naopak větší mezi ženami a to zejména u zajištěné střední třídy, nastupující kosmopolitní třídy a tradiční pracující. Nejvýraznější rozdíl je u nastupující kosmopolitní třídy kde mezi muži volí Piráty 18 % respondentů, zatímco u žen to je 34 %. Naopak u třídy místních vazeb volí častěji Piráty muži.
+Menší, ale stále významný rozdíl mezi pohlavími je i u strádající třídy, kde má u mužů vyšší podporu ODS. Podpora Pirátské strany je naopak větší mezi ženami, a to zejména u zajištěné střední třídy, nastupující kosmopolitní třídy a tradiční pracující. Nejvýraznější rozdíl je u nastupující kosmopolitní třídy, kde mezi muži volí Piráty 18 % respondentů, zatímco u žen to je 34 %. Naopak u třídy místních vazeb volí častěji Piráty muži.
 
 ## Koho nesnášíme
 
@@ -90,4 +90,4 @@ Odmítání některých stran spolu souvisí, společně nepřijatelné jsou zej
 
 Vůči vládním stranám a SPD se nejsilněji vymezuje kosmopolitní třída. Naopak strany demokratického bloku a Pirátů nejvíce odmítá strádající a tradičně pracující třída, které tak vytváří názorovou koalici,“ dodává sociolog Pilnáček. 
 
-To je podle něj způsobeno tím, že vymezení se vůči konkrétním stranám nesouvisí jen s tím, do jaké třídy lidé patří, ale také s typem médií, které konzumují. Podobně jako u prezidentské volby ale není jasné, zda sledování médií ovlivňuje, jak kdo volí, a nebo zda lidé preferují média, se kterými souzní.
+To je podle něj způsobeno tím, že vymezení se vůči konkrétním stranám nesouvisí jen s tím, do jaké třídy lidé patří, ale také s typem médií, která konzumují. Podobně jako u prezidentské volby ale není jasné, zda sledování médií ovlivňuje, jak kdo volí, anebo zda lidé preferují média, se kterými souzní.

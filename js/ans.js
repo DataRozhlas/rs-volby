@@ -1,9 +1,9 @@
 export const ans = {
     '1': [
         'Demokracie je lepší než jakýkoliv jiný způsob vlády.',
-        'Pro lidi jako jsem já je jedno, zda máme demokratický nebo nedemokratický režim.',
+        'Pro lidi, jako jsem já, je jedno, zda máme demokratický nebo nedemokratický režim.',
         'Za určitých okolností může být autoritativní způsob vládnutí lepší než demokratický.',
-        'Nedovedu posoudit / nevím',
+        'Nedovedu posoudit/nevím',
     ],
     '5': [
         'ANO',
