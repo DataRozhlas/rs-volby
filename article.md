@@ -62,7 +62,7 @@ U sněmovních voleb byly mezi třídami rozdíly nejen ve volbě samotné, ale 
 
 Podle Matouše Pilnáčka volební účast zvyšuje lidský a kulturní kapitál. "Lidé s vyššími kapitály se častěji pohybují v prostředí, kde je častěji účast u voleb vnímána jako norma, mají také více zdrojů a více těží z fungování současného režimu, a proto se také na jeho chodu více podílejí," tvrdí.
 
-Co se týče volby samotné, v těch se v roce 2017 nejvíce odlišovala nastupující kosmopolitní třída, která volila často Piráty, TOP 09 a ODS, naopak nepreferovala hnutí ANO, SPD a komunisty. 
+Co se týče voleb samotných, v těch se v roce 2017 nejvíce odlišovala nastupující kosmopolitní třída, která volila často Piráty, TOP 09 a ODS, naopak nepreferovala hnutí ANO, SPD a komunisty. 
 
 Populistickou SPD často volili příslušníci strádající (15 %) a ohrožené třídy (14 %), přičemž ohrožení často volili i Piráty, což u strádajících neplatilo.
 
@@ -84,7 +84,7 @@ Originální obraz pak přinesla otázka na to, kterou stranu voliči považují
 
 <wide><div class="chart" id="ch7"></div></wide>
 
-Odmítání některých stran spolu souvisí, společně nepřijatelné jsou zejména strany tzv. demokratického bloku a Pirátů. Pokud volič odmítá TOP 09, tak je pravděpodobné, že nemá rád ani ODS, Lidovce, STAN a Piráty. Druhou společně nepřijatelnou skupinou jsou strany ANO, SPD, komunisté a částečně ČSSD. 
+Odmítání některých stran spolu souvisí, společně nepřijatelné jsou zejména strany tzv. demokratického bloku a Pirátů. Pokud volič odmítá TOP 09, tak je pravděpodobné, že nemá rád ani ODS, KDU-ČSL, STAN a Piráty. Druhou společně nepřijatelnou skupinou jsou strany ANO, SPD, komunisté a částečně ČSSD. 
 
 „Existují zde ještě další dvě skupiny, pro které jsou strany buď všechny přijatelné, nebo nepřijatelné. Oba způsoby odpovídání a zejména neodmítání žádné strany souvisí s nezájmem o politické dění,“ upozorňuje Pilnáček.
 
