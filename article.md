@@ -78,7 +78,7 @@ Obecně je možné říct, že TOP 09 preferují voliči s vyšším kulturním,
 
 Menší, ale stále významný rozdíl mezi pohlavími je i u strádající třídy, kde má u mužů vyšší podporu ODS. Podpora Pirátské strany je naopak větší mezi ženami, a to zejména u zajištěné střední třídy, nastupující kosmopolitní třídy a tradiční pracující. Nejvýraznější rozdíl je u nastupující kosmopolitní třídy, kde mezi muži volí Piráty 18 % respondentů, zatímco u žen to je 34 %. Naopak u třídy místních vazeb volí častěji Piráty muži.
 
-## Koho nesnášíme
+## Kdo je nepřijatelný
 
 Originální obraz pak přinesla otázka na to, kterou stranu voliči považují za nepřijatelnou, tedy jakou by nikdy nevolili a nechtěli by ji mít ve vládě. Obecně nejhůře dopadly KSČM a SPD, které jsou nepřijatelné pro 67 % a 66 % voličů. Naopak nejméně rozdělují Starostové a nezávislí, kteří jsou nepřijatelní jen pro 36 % dotázaných.
 
